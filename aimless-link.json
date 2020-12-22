@@ -1,4 +1,4 @@
 {
-  "__COUNT__" : ["__FILE_LINK__", "__FILE_TYPE__", "__FILE_NAME__", "__TARGET_PATH__"],
+  "__COUNT__" : ["__FILE_LINK__", "__FILE_TYPE__", "__FILE_NAME__", "__TARGET_PATH__\\"],
   "1" : ["https://raw.githack.com/ShapeLayer/aimless.ho9.me/main/aimless.json", "json", "test.json", ""]
 }
