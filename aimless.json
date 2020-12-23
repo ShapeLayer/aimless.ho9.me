@@ -3,6 +3,6 @@
     "minecraft" : {
         "rel" : 12,
         "forge" : 2864,
-        "package" : 1
+        "package" : 2
     }
 }
