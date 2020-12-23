@@ -1,5 +1,5 @@
 {
   "__COUNT__" : ["__FILE_LINK__", "__FILE_TYPE__", "__FILE_NAME__", "__TARGET_PATH__\\", "__BACKUP_NEEDED__"],
   "1" : ["https://raw.githack.com/ShapeLayer/aimless.ho9.me/main/aimless.json", "json", "test.json", "", true],
-  "2" : ["https://drive.google.com/u/0/uc?id=19tEEZfSKNxTeUGSqTt4dYq3PVgXyXrhH&export=download", "zip", "aimless.zip", "", true]
+  "2" : ["https://drive.google.com/u/0/uc?export=download&confirm=_VtH&id=19tEEZfSKNxTeUGSqTt4dYq3PVgXyXrhH", "zip", "aimless.zip", "", true]
 }
