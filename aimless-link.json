@@ -1,5 +1,5 @@
 {
   "__COUNT__" : ["__FILE_LINK__", "__FILE_TYPE__", "__FILE_NAME__", "__TARGET_PATH__\\", "__BACKUP_NEEDED__"],
-  "1" : ["https://raw.githack.com/ShapeLayer/aimless.ho9.me/main/aimless.json", "json", "test.json", "", true],
-  "2" : ["https://dl.dropboxusercontent.com/s/8g8okif2z18wkcz/region.zip", "zip", "test.zip", "", true]
+  "1" : ["https://dl.dropboxusercontent.com/s/8g8okif2z18wkcz/201224-package.zip", "zip", "minecraft.zip", "", true],
+  "2" : ["https://rawcdn.githack.com/ShapeLayer/aimless.ho9.me/4de6605bfc970ba3c126284384353fb9e8e0cda3/options.txt", "txt", "option.txt", "", false]
 }
