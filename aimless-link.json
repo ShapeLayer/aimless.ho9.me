@@ -1,5 +1,6 @@
 {
   "__COUNT__" : ["__FILE_LINK__", "__FILE_TYPE__", "__FILE_NAME__", "__TARGET_PATH__\\", "__BACKUP_NEEDED__"],
-  "1" : ["https://dl.dropboxusercontent.com/s/2npaq7k5kez45sk/201224-package.zip", "zip", "minecraft.zip", "", true],
-  "2" : ["https://rawcdn.githack.com/ShapeLayer/aimless.ho9.me/4de6605bfc970ba3c126284384353fb9e8e0cda3/options.txt", "txt", "option.txt", "", false]
+  "1" : ["https://dl.dropboxusercontent.com/s/y6ggjge69xd355t/.minecraft.zip", "zip", "minecraft.zip", "", true],
+  "2" : ["https://dl.dropboxusercontent.com/s/i91tqwocb3sdjig/Minecraft%20Shaders.zip", "zip", "Minecraft Shaders.zip", "shaderpacks\\", false],
+  "3" : ["https://dl.dropboxusercontent.com/s/qp3xwj0goven81q/options.zip", "zip", "options.zip", "", false]
 }
