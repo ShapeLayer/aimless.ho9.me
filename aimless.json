@@ -1,8 +1,8 @@
 {
-    "client" : 1,
+    "client" : 2,
     "minecraft" : {
         "rel" : 12,
         "forge" : 2864,
-        "package" : 3
+        "package" : 0
     }
 }
