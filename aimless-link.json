@@ -1,5 +1,5 @@
 {
   "__COUNT__" : ["__FILE_LINK__", "__FILE_TYPE__", "__FILE_NAME__", "__TARGET_PATH__\\", "__BACKUP_NEEDED__"],
-  "1" : ["https://dl.dropboxusercontent.com/s/7r0utsyaovnjoywngtrr0/base.zip", "zip", "base.zip", "", true],
+  "1" : ["https://www.dropbox.com/scl/fi/7r0utsyaovnjoywngtrr0/base.zip?rlkey=d708ryh0auknc15aa91icltw2&st=ikky96k2&dl=1", "zip", "base.zip", "", true],
   "2" : ["https://dl.dropboxusercontent.com/s/i91tqwocb3sdjig/Minecraft%20Shaders.zip", "zip", "Minecraft Shaders.zip", "shaderpacks\\", false]
 }
